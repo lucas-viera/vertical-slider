@@ -2,7 +2,7 @@
 
 Simple up-down button slider for special occasions.
 
-## [Visit Site Here](https://lucasviera22.github.io/vertical-slider/)
+## [Visit Site Here](https://lucas-viera.github.io/vertical-slider/)  
 
 ### Credits
 
